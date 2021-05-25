@@ -6,9 +6,9 @@ My name is Luiz Fernando, I'm from Brazil, and I'm currently in college studying
 
 Skills: Javascript / Python / C / HTML / CSS
 
-- 🔭 I want to learn ReactJS, C++ and C# in the near future.
-- 🌱 I’m currently learning Node.js, Javascript, Python, C, HTML, MongoDB and CSS 
-- ⚡ Fun fact: I love databending images, and I also spend way too much time listening to music on a day-to-day basis. 
+- 🔭 I want to learn Next.js, C++, C#, R, PHP, Swift and/or Kotlin in the near future.
+- 🌱 I’m currently learning Node.js, React.js, Javascript, Python, C, HTML and CSS 
+- ⚡ Fun facts: I love databending images, and I also spend way too much time listening to music on a day-to-day basis. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lfnand0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luiz-f/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15472473)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/dexTHRW)  [<img 
