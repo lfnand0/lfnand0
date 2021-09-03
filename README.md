@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Luiz Fernando
 #### Computer Science Student at PUC Minas, Intern at Compasso UOL
-![Computer Science Student at PUC Minas](https://i.ibb.co/9wH8DLF/gh.png)
+![Computer Science Student at PUC Minas](https://i.ibb.co/92FjRDZ/gh2.png)
 
 My name is Luiz Fernando, I'm from Brazil, and I'm currently in college studying Computer Science (PUC Minas). Though I would consider myself rather familiarized with programming overall, I still don't have one specific language I can safely say I'm great at - which is a good thing, since it's what keeps me studying daily and searching for more information. My first contact with programming was when I was only 12 years old, through both Arduino and Scratch, and since then I grew to love it more and more.
 
