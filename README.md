@@ -6,7 +6,7 @@
 ### Olá 👋, meu nome é Luiz Fernando
 #### Estudante de Ciência da Computação na PUC Minas
 
-Olá! Meu nome é Luiz Fernando, tenho 19 anos, moro em Belo Horizonte, Minas Gerais e estou no quarto período do curso de Ciência da Computação na PUC Minas. Possuo conhecimento das linguagens C, C++, C#, Java, Python, Javascript, e experiência com HTML, CSS e a biblioteca React JS - porém ainda tenho muito a aprender. Finalizei em Agosto de 2021 um programa de 3 meses com a Compass UOL, onde aprendi a utilizar React e todo seu ecossistema para a criação de um ambiente Front-end, além de aumentar e muito meu conhecimento quanto a Javascript, HTML e CSS. 
+Olá! Meu nome é Luiz Fernando, tenho 19 anos, moro em Belo Horizonte, Minas Gerais e estou no quinto período do curso de Ciência da Computação na PUC Minas. Possuo conhecimento das linguagens C, C++, C#, Java, Python, Javascript, e experiência com HTML, CSS e a biblioteca React JS - porém ainda tenho muito a aprender. Finalizei em Agosto de 2021 um programa de 3 meses com a Compass UOL, onde aprendi a utilizar React e todo seu ecossistema para a criação de um ambiente Front-end, além de aumentar e muito meu conhecimento quanto a Javascript, HTML e CSS. 
 
 Meu primeiro contato com programação foi aos 12 anos, com Arduino e Scratch, e, apesar de ter priorizado os estudos na escola durante o Ensino Médio e Fundamental, meu entusiasmo com o assunto é o mesmo de quando mais jovem. 
 
@@ -19,7 +19,7 @@ Além de tecnologia, possuo muito interesse em artes, música e cinema, e sonho 
 ### Hi there 👋, my name is Luiz Fernando
 #### Computer Science Student at PUC Minas
 
-Hello! My name is Luiz Fernando, I'm 19, and currently live in Belo Horizonte, Brazil. I'm on the 4th semester of the Computer Science course at PUC Minas.
+Hello! My name is Luiz Fernando, I'm 19, and currently live in Belo Horizonte, Brazil. I'm on the 5th semester of the Computer Science course at PUC Minas.
 I'm currently familiarized with C, C++, C#, Python, Java, Javascript, HTML and CSS, and with the framework React. In August 2021 I finished a 3 month internship program at Compasso UOL, where I got to learn how to use React to build web pages, besides increasing my overall knowledge of Javascript, HTML and CSS in general.
 
 I began learning to program with Arduino and Scratch when I was 12, and even though I prioritized school over developing my programming skills throughout the last couple of years of high school, my enthusiasm over the subject remained the same as of that little kid playing around with a circuit board and a computer.
